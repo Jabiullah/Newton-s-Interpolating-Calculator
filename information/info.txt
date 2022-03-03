@@ -1,0 +1,11 @@
+GUI Application name : Newton’s interpolating polynomial of order 3
+Author By 	     : Rabius Sani Jabiullah
+Main Idea	     : Rabius Sani Jabiullah
+Last Modified 	     : 21 August 2020
+Email (Backup) 	     : inventoryprottoy181@gmail.com
+Version		     : 01.0.00
+
+Description
+
+Welcome to Newton’s Interpolating Calculation.
+Here you can easily calculate Newton’s interpolating polynomial of order 3.First of all please input x values in asending order.After that please input F(x) values coresponding of x.Then you have to input target node.Then press Show Result button.After work please Refresh it.
